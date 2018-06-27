@@ -1,0 +1,22 @@
+header{
+    background-color: aqua;
+    min-height: 80px;
+}
+.content{
+    background-color: blue;
+    margin: 20px 0 10px 0;
+    min-height: 50px;
+}
+.hero{
+/*     background-color: aqua;*/
+     margin: 20px 0 10px 0;
+    min-height: 80px;
+}
+.contents{
+    background-color: violet;
+    margin: 20px 0 10px 0;
+    min-height: 50px;
+}
+.wrapper{
+    background-color: aqua;
+}
